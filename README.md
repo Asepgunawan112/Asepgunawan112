@@ -1,5 +1,6 @@
-## Hi there 👋
+<a href="https://www.youtube.com/@ayundarisu"><img width="40" height="40" alt="risu_github" src="https://github.com/user-attachments/assets/ee763320-c6e3-4e47-a075-88378328dfff" /></a>
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&animation=fadeIn&text=Ollo!🐿️)
+
 <!--
 **Asepgunawan112/Asepgunawan112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
