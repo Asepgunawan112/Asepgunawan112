@@ -1,9 +1,10 @@
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&animation=fadeIn&text=Ollo!🐿️)
 <div align="center">
   <a href="https://www.youtube.com/@ayundarisu">
     <img width="180" height="180" alt="risu_github" src="https://github.com/user-attachments/assets/ee763320-c6e3-4e47-a075-88378328dfff" />
   </a>
 </div>
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&animation=fadeIn&text=Ollo!🐿️)
 
 <!--
 **Asepgunawan112/Asepgunawan112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
