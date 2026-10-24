@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&animation=fadeIn&text=Ollo!🐿️)
 <!--
 **Asepgunawan112/Asepgunawan112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
